@@ -3,5 +3,9 @@
 ################################################################################
 
 /.idea
-/.vs
+/.vscode
+/.vscode/*.json
 /pytorch/paractices/data
+*.jpeg
+*.gitignore
+*.jpg
