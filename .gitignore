@@ -2,10 +2,11 @@
 # 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
 ################################################################################
 
-/.idea
-/.vscode
-/.vscode/*.json
-/pytorch/paractices/data
+/.idea/
+/.vscode/
+*.png
+/pytorch/paractices/data/
 *.jpeg
 *.gitignore
 *.jpg
+/.ipynb_checkpoints
